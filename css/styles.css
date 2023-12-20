@@ -28,6 +28,12 @@ header {
     line-height: normal;
 }
 
+.nav_wrapper {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 40px;
+}
+
 .nav_list {
     display: flex;
     align-items: center;
@@ -42,9 +48,6 @@ header {
     line-height: 24px;
 }
 
-.profile_link {
-    margin-left: 8px;
-}
 
 .burger_menu {
     display: none;

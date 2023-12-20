@@ -1,0 +1,25 @@
+@media (max-width: 1025px) {
+    /* header */
+    header {
+        padding-inline: 92px;
+    }
+    /* section1 */
+    .section_one {
+        padding-inline: 92px;
+    }
+
+}
+
+@media (max-width: 835px) {
+
+    /* header */
+    header {
+        padding-inline: 67px;
+    }
+
+    /* section1 */
+    .section_one {
+        padding-inline: 67px;
+        height: 438px;
+    }
+}

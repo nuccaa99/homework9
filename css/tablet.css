@@ -1,0 +1,31 @@
+@media (max-width: 750px) {
+
+    /* header */
+    header {
+        padding-inline: 14px;
+    }
+
+    nav {
+        display: none;
+    }
+
+    .burger_menu {
+        display: block;
+    }
+
+    /* section1 */
+    .section_one {
+        padding-inline: 14px;
+        height: 431px;
+    }
+
+    .section_one_title {
+        font-size: 32px;
+        line-height: 40px;
+    }
+
+    .section_one_txt {
+        font-size: 14px;
+        line-height: 22px;
+    }
+}
