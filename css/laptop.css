@@ -46,7 +46,7 @@
 
     /* section 3 bottom images */
     .bottom {
-        width: 48%;
+        width: 49%;
     }
 }
 
@@ -87,5 +87,10 @@
     .section_three_img_one_wrapper,
     .images_wrapper {
         width: 700px;
+    }
+
+    /* section 3 bottom images */
+    .bottom {
+        width: 48.5%;
     }
 }
