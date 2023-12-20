@@ -1,11 +1,27 @@
 @media (max-width: 1025px) {
+
     /* header */
     header {
         padding-inline: 92px;
     }
+
     /* section1 */
     .section_one {
         padding-inline: 92px;
+    }
+
+    /* section2 */
+    .section_two_title {
+        padding-inline: 92px;
+    }
+
+    .card {
+        width: 408px;
+    }
+
+    /* section2 article3 */
+    .third {
+        display: none;
     }
 
 }
@@ -21,5 +37,19 @@
     .section_one {
         padding-inline: 67px;
         height: 438px;
+    }
+
+    /* section2 */
+
+    .section_two {
+        padding-block: 80px;
+    }
+
+    .section_two_title {
+        padding-inline: 67px;
+    }
+
+    .card {
+        width: 338px;
     }
 }
