@@ -99,11 +99,8 @@ header {
     font-weight: 500;
     line-height: 45px;
     margin-bottom: 35px;
-
-}
-
-.section_two_title {
     padding-inline: 130px;
+
 }
 
 .cards_container {
@@ -145,20 +142,32 @@ header {
 /* section3 */
 
 .section_three {
-    padding: 0 130px 130px 130px;
+    padding-bottom: 130px;
 }
 
 .images_container {
     display: flex;
-    justify-content: center;
     column-gap: 20px;
+    justify-content: center;
+}
+
+
+.section_three_img_one_wrapper {
+    width: 780px;
 }
 
 .images_wrapper {
+    width: 380px;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    row-gap: 20px;
 }
+
+.section_three_img {
+    width: 100%;
+}
+
+
 
 /* footer */
 
