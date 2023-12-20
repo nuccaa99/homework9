@@ -46,3 +46,41 @@ header {
     margin-left: 8px;
 }
 
+.burger_menu {
+    display: none;
+}
+
+/* section1 */
+
+.section_one {
+    height: 550px;
+    background-image: url(../images/section1_cover.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-inline: 130px;
+    row-gap: 20px;
+}
+
+.section_one_title {
+    color: #FFF;
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 75px;
+}
+
+.section_one_txt {
+    color: #FFF;
+    text-align: center;
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+/* section2 */
