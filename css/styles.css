@@ -87,3 +87,47 @@ header {
 }
 
 /* section2 */
+
+.section_two {
+    padding: 130px;
+}
+
+.section_two_title,
+.section_three_title {
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 45px;
+    margin-bottom: 35px;
+}
+
+.cards_container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    border: 1px solid black;
+    width: 380px;
+}
+
+.card_txt_wrapper {
+    margin: 16px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+}
+
+.card_title {
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 32px;
+}
+
+.card_txt {
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
