@@ -159,3 +159,25 @@ header {
     flex-direction: column;
     justify-content: space-between;
 }
+
+/* footer */
+
+footer {
+    padding-block: 31px;
+    background-color: #000;
+}
+
+.footer_logo_link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 14px;
+}
+
+.footer_logo_title {
+    color: #FFF;
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+}

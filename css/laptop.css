@@ -1,3 +1,9 @@
+@media (max-width: 1180px) {
+    .images_container {
+        column-gap: 10px;
+    }
+}
+
 @media (max-width: 1025px) {
 
     /* header */
