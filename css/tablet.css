@@ -55,4 +55,30 @@
     .card {
         width: 345px;
     }
+
+    /* section3 */
+    .section_three {
+        padding-bottom: 48px;
+    }
+
+    .section_three_title {
+        text-align: center;
+        font-size: 24px;
+        line-height: 36px;
+        margin-bottom: 24px;
+    }
+
+
+    .section_three_img_one {
+        width: 375px;
+    }
+
+    .images_wrapper {
+        flex-direction: column;
+        row-gap: 20px;
+    }
+
+    .section_three_img {
+        width: 375px;
+    }
 }
